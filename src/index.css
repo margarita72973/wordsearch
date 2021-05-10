@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+
+@font-face {
+  font-family: "Questrial"; 
+  src: url("./assets/fonts/questrial/Questrial-Regular.ttf"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
+
+@font-face {
+  font-family: "RubikRegular"; 
+  src: url("./assets/fonts/rubik/Rubik-Regular.ttf"); 
+  font-style: normal; 
+  font-weight: normal; 
+}
+
+@font-face {
+  font-family: "RubikBold"; 
+  src: url("./assets/fonts/rubik/Rubik-Bold.ttf"); 
+  font-style: normal; 
+}
